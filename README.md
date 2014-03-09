@@ -1,2 +1,0 @@
-# doedetest
-### a Sails application
