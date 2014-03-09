@@ -43,6 +43,10 @@ Voer een clone uit van de git-repository (vrijwel altijd `git clone https://gith
 
 Ga naar de map in je command prompt, en voer het commando `npm install` uit. Dit laadt alle zaken die nodig zijn om het succesvol uit te kunnen voeren.
 
+Ook moet je nog het commando `npm install -g sails` uitvoeren. 
+
+Als je het daarna wil uitvoeren, hoef je alleen je zeil omhoog te doen (ofwel `sails lift`)
+
 Kijk of je in je browser naar http://localhost:1337 kan gaan. Als dit werkt, dan kunnen we erin gaan werken.
 
 ----------
